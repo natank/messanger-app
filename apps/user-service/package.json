@@ -1,0 +1,7 @@
+{
+  "name": "user-service",
+  "scripts": {
+    "test": "vitest",
+    "test:watch": "vitest --watch"
+  }
+}
